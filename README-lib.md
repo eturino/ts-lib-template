@@ -19,7 +19,10 @@ __REPLACE_ME_WITH_PACKAGE_DESCRIPTION__
 
 TBD.
 
-## Commits, versioning and publishing
+## Development, Commits, versioning and publishing
+
+<details><summary>See documentation for development</summary>
+<p>
 
 See [The Typescript-Starter docs](https://github.com/bitjson/typescript-starter#bump-version-update-changelog-commit--tag-release).
 
@@ -100,3 +103,6 @@ git push --follow-tags origin master
 # Publish to NPM (allowing public access, required if the package name is namespaced like `@somewhere/some-lib`)
 yarn publish --access public
 ```
+
+</p>
+</details>
