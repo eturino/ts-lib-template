@@ -51,7 +51,7 @@ Once you are ready to create the first version, run the following (note that `re
 
 ```sh
 # Reset the repo to the latest commit and build everything
-yarn run reset && yarn run test && yarn run cov:check && yarn run doc:html
+yarn run reset && yarn run test && yarn run doc:html
 
 # Then version it with standard-version options. e.g.:
 # don't bump package.json version
