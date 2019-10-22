@@ -28,7 +28,7 @@ See [The Typescript-Starter docs](https://github.com/bitjson/typescript-starter#
 For commits, you should use [`commitizen`](https://github.com/commitizen/cz-cli)
 
 ```sh
-yarn global install commitizen
+yarn global add commitizen
 
 #commit your changes:
 git cz
