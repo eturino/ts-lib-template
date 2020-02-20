@@ -68,7 +68,7 @@
     "standard-version": "^7.1.0",
     "strip-json-comments": "^3.0.1",
     "trash-cli": "^3.0.0",
-    "ts-jest": "^25.2.0",
+    "ts-jest": "^25.2.1",
     "ts-loader": "^6.0.4",
     "ts-node": "^8.6.2",
     "tslint": "^5.18.0",
